@@ -2,7 +2,7 @@
 - 👀 I’m interested in f*cking with school blockers
 - 🌱 I’m currently learning HTML, CSS, and JS
 - 💞️ I’m looking to collaborate on unblocking sites (DM ME)
-- 📫 How to reach me: DM me on discord: aNto#4348
+- 📫 How to reach me: DM me on discord: @anto9167
 
 <!---
 anto9167/anto9167 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
